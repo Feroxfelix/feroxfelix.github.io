@@ -1,6 +1,3 @@
-Joplin for blogposts
-
-## Joplin for blogposts
 
 I decided to try out Joplin as a markdown editor to see wether or not it suits my needs for writing instruction and documenting my projects.
 
