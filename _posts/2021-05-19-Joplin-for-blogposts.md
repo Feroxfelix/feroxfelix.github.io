@@ -12,7 +12,10 @@ I have installed Joplin Desktop for Ubuntu trhough **'Ubuntu Software'**, by jus
 
 There are 4 column of Joplin.
 
-**Notebooks** 	| 	**Notes** 	| 	**Editor**		| **Visual representation**
+**Notebooks** 	
+**Notes** 	
+**Editor**		
+**Visual representation**
 
 ![f0c532c643de948e3169b8a1a832c1c2.png](../_resources/2021-05-19/f0c532c643de948e3169b8a1a832c1c2.png)
 
