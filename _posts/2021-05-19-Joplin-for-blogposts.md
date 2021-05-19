@@ -12,6 +12,8 @@ I have installed Joplin Desktop for Ubuntu trhough **'Ubuntu Software'**, by jus
 
 <img src="/_resources/4945498657d44680899efef6b4268ec7.png">
 
+![image](_resources/4945498657d44680899efef6b4268ec7.png)
+
 There are 4 column of Joplin.
 
 **Notebooks** 	| 	**Notes** 	| 	**Editor**		| **Visual representation**
