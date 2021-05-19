@@ -37,6 +37,23 @@ Making them invisible after rendering.
 
 So as you can see, in the example, only when referencing the image in the /resources/ directory, pictures are displayed...
 
+
+
+
 Now I can begin blogging !!!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
