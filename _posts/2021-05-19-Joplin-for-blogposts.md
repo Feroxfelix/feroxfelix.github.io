@@ -24,3 +24,16 @@ There are 4 column of Joplin.
 
 Now it will be exciting to see how I can bring in the pictures for my posts :)
 
+Apparantly Jekyll ignores files that starts with underscore.
+
+**Meaning the following files:**
+
+<img src="/resources/201903994342c6d3f1762bba28cc3e53.png"
+
+**Will be interpreted as:**
+
+
+
+<img src="/resources/9c852fbb6ef6152666302aba9ca662dd.png">
+
+But at last I found a way to include pictures on my blogposts :)
