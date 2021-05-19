@@ -8,12 +8,6 @@ Actually I am writing this blog post, as I document the same blogpost!
 
 I have installed Joplin Desktop for Ubuntu trhough **'Ubuntu Software'**, by just opening up software and searching for Joplin:
 
-![8c4a4e7cf172561737fbad933c0d3dc9.png](../_resources/4945498657d44680899efef6b4268ec7.png)
-
-<img src="/_resources/4945498657d44680899efef6b4268ec7.png">
-
-![image](_resources/4945498657d44680899efef6b4268ec7.png)
-
 <img src="/resources/8c4a4e7cf172561737fbad933c0d3dc9.png">
 
 There are 4 column of Joplin.
