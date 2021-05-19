@@ -21,17 +21,22 @@ There are 4 column of Joplin.
 
 Now it will be exciting to see how I can bring in the pictures for my posts :)
 
-Apparantly Jekyll ignores files that starts with underscore.
+After some testing, I found that Jekyll ignores files that start with underscore.
+Making them invisible after rendering.
 
-**Meaning the following files:**
+**I tried following 4 ways of implementing pictures:**
 
 <img src="/resources/8737e6c6849047739f503cc3bcb9c9d6.png">
 
 
-**Will be interpreted as:**
+**And found that they will be interpreted as:**
 
 
 
 <img src="/resources/87c0a9f6956d4d07a16f281ab79adc26.png">
 
-But at last I found a way to include pictures on my blogposts :)
+So as you can see, in the example, only when referencing the image in the /resources/ directory, pictures are displayed...
+
+Now I can begin blogging !!!
+
+
