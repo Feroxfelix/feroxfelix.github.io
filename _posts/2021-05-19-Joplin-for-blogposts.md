@@ -22,8 +22,8 @@ Apparantly Jekyll ignores files that starts with underscore.
 
 **Meaning the following files:**
 
-<img src="/resources/8737e6c6849047739f503cc3bcb9c9d6.png"
-<img src="/resources/8737e6c6849047739f503cc3bcb9c9d6.png"
+<img src="/resources/8737e6c6849047739f503cc3bcb9c9d6.png">
+
 
 **Will be interpreted as:**
 
